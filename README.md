@@ -7,3 +7,7 @@ This app consists of two parts:
 
 - A public site that lets people view polls and vote in them.
 - An admin site that lets you add, change, and delete polls.
+
+# Testing
+
+- 10 tests were created using Python's built-in test framework. 
